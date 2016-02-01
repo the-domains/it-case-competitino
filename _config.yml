@@ -1,0 +1,28 @@
+name: IT Case Competitino
+favicon: null
+layout_spectrum: 0.06908646039664745
+typography_spectrum: 0.4711904157884419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8210094629321247
+  lightness: 0.24875773722305894
+  saturation: 0.6153663394507021
+  rhythmicContrast: 0.47768940730020404
+purpose: []
