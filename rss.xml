@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[IT Case Competitino]]></title>
         <description><![CDATA[IT Case Competitino]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/it-case-competitino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 18:53:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 19:03:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/it-case-competitino/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc08e1f-55fa-496c-9ff9-391714af87a0.jpg">]]></description>
+            <link>https://thegrid.ai/it-case-competitino/6cb25098-d935-4668-9b94-776a843b13ac/index.html</link>
+            <guid isPermaLink="false">6cb25098-d935-4668-9b94-776a843b13ac</guid>
+            <pubDate>Mon, 01 Feb 2016 19:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to apply!]]></title>
             <description><![CDATA[<article><h1>How to apply!</h1><p>To be eligible to participate in ITCC  2016, you must meet the following requirements:</p></article>]]></description>
-            <link>undefinedhow-to-apply/index.html</link>
+            <link>https://thegrid.ai/it-case-competitino/how-to-apply/index.html</link>
             <guid isPermaLink="false">a0d2c0b5-00e1-48c3-af31-739fc8b76dfe</guid>
             <pubDate>Mon, 01 Feb 2016 18:53:45 GMT</pubDate>
         </item>
