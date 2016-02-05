@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:53:45.516Z'
-dateModified: '2016-02-01T18:53:19.635Z'
+datePublished: '2016-02-05T21:35:59.931Z'
+dateModified: '2016-02-05T21:35:57.885Z'
 title: 'How to apply!'
 author: []
+sourcePath: _posts/2016-02-01-how-to-apply.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-how-to-apply.md
-published: true
 url: how-to-apply/index.html
 _type: Article
 
