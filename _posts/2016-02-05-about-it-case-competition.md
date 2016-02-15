@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:33:01.420Z'
-dateModified: '2016-02-05T21:32:58.026Z'
+datePublished: '2016-02-15T14:04:29.667Z'
+dateModified: '2016-02-15T14:04:18.331Z'
 title: About IT Case Competition
 author: []
 sourcePath: _posts/2016-02-05-about-it-case-competition.md
@@ -22,6 +22,8 @@ url: about-it-case-competition/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f00dac-b894-443b-8670-f5e56c45d5d7.jpg)
+
 # About IT Case Competition
 
 ## What?
